@@ -1,4 +1,4 @@
-# Word-Count
+## EXP NO-08- Word-Count
 ## AIM:
 To write a python program for getting the word count from a text.
 ## EQUIPEMENT'S REQUIRED: 
