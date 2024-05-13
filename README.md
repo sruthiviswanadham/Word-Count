@@ -32,7 +32,8 @@ with open ("story.txt","r") as f1:
 ### OUTPUT:
 
 ![Screenshot 2024-05-13 162349](https://github.com/sruthiviswanadham/Word-Count/assets/151760421/77fcc70d-ade4-4ef6-9592-ad71f1b31183)
-![OUTPUT](image.png)
+![image](https://github.com/sruthiviswanadham/Word-Count/assets/151760421/13033308-8fc4-4fa1-9183-63709c80bd8f)
+
 
 ## RESULT:
 Thus the program is written to find the word count from a text.
